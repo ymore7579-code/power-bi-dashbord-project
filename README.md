@@ -199,3 +199,10 @@ If you find this project useful, consider giving the repository a ⭐ on GitHub.
 ---
 
 **Made with ❤️ using Microsoft Power BI**
+
+
+<img width="583" height="320" alt="Screenshot 2026-09-06 235722" src="https://github.com/user-attachments/assets/6e1a5d51-5cfa-4eef-8cca-f65c3b642094" />
+
+
+
+
