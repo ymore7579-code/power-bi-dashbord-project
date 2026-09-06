@@ -200,8 +200,11 @@ If you find this project useful, consider giving the repository a ⭐ on GitHub.
 
 **Made with ❤️ using Microsoft Power BI**
 
+<img width="578" height="320" alt="Screenshot 2026-09-07 000204" src="https://github.com/user-attachments/assets/5d3617c3-983a-4ec3-8a6d-c5d8a7beb505" />
 
-<img width="583" height="320" alt="Screenshot 2026-09-06 235722" src="https://github.com/user-attachments/assets/6e1a5d51-5cfa-4eef-8cca-f65c3b642094" />
+
+<img width="581" height="322" alt="Screenshot 2026-09-07 000330" src="https://github.com/user-attachments/assets/0f3dc97d-2c4f-41f5-84f3-a78160905523" />
+
 
 
 
