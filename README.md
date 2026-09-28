@@ -1,6 +1,6 @@
-# 📊 Sales Dashboard & Forecasting – Power BI
+#  Sales Dashboard & Forecasting – Power BI
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is an interactive **Sales Analytics Dashboard built using Microsoft Power BI**.
 
@@ -24,7 +24,7 @@ The project demonstrates practical skills in **Data Analysis, Data Visualization
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Microsoft Power BI**
 - **Power Query**
@@ -35,7 +35,7 @@ The project demonstrates practical skills in **Data Analysis, Data Visualization
 
 ---
 
-## 📊 Dashboard Pages
+##  Dashboard Pages
 
 ### 1. Main Dashboard
 
@@ -43,12 +43,12 @@ The Main Dashboard provides an overview of business performance.
 
 ### Key KPIs
 
-- 💰 Total Sales
-- 📈 Total Profit
-- 🛒 Total Orders
-- 📦 Total Quantity Sold
-- 👥 Total Customers
-- 📊 Profit Margin
+-  Total Sales
+-  Total Profit
+-  Total Orders
+-  Total Quantity Sold
+-  Total Customers
+-  Profit Margin
 
 ### Visualizations
 
@@ -76,7 +76,7 @@ It helps answer questions such as:
 
 ---
 
-## 🔍 Business Questions Answered
+##  Business Questions Answered
 
 1. What are the total sales?
 2. What is the total profit?
@@ -91,7 +91,7 @@ It helps answer questions such as:
 
 ---
 
-## 📈 Key Features
+##  Key Features
 
 ### Interactive Filters
 
@@ -117,7 +117,7 @@ Power BI forecasting is used to analyze future sales based on historical sales p
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```text
 Sales-Dashboard-PowerBI/
@@ -131,7 +131,7 @@ Sales-Dashboard-PowerBI/
 
 ---
 
-## 🚀 How to Use the Project
+##  How to Use the Project
 
 1. Clone or download this repository.
 2. Install **Microsoft Power BI Desktop**.
@@ -147,7 +147,7 @@ sales_dashbord_project.pbix
 
 ---
 
-## 📌 Skills Demonstrated
+##  Skills Demonstrated
 
 - Data Cleaning
 - Data Transformation
@@ -163,7 +163,7 @@ sales_dashbord_project.pbix
 
 ---
 
-## 💡 Project Insights
+##  Project Insights
 
 The dashboard provides a centralized view of sales performance and helps identify:
 
@@ -192,14 +192,17 @@ Savitribai Phule Pune University (SPPU)
 
 ---
 
-## ⭐ Support
+##  Support
 
-If you find this project useful, consider giving the repository a ⭐ on GitHub.
+If you find this project useful, consider giving the repository a  on GitHub.
 
 ---
 
-**Made with ❤️ using Microsoft Power BI**
+**Made with  using Microsoft Power BI**
+project files
+ "C:\Users\DELL\Desktop\project\sales_dashbord_project.pbix"
 
+ Demo picture
 <img width="578" height="320" alt="Screenshot 2026-09-07 000204" src="https://github.com/user-attachments/assets/5d3617c3-983a-4ec3-8a6d-c5d8a7beb505" />
 
 
