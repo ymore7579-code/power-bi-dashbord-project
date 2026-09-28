@@ -199,10 +199,15 @@ If you find this project useful, consider giving the repository a  on GitHub.
 ---
 
 **Made with  using Microsoft Power BI**
+
+
+
 project files
  "C:\Users\DELL\Desktop\project\sales_dashbord_project.pbix"
 
- Demo picture
+ 
+
+ 
 <img width="578" height="320" alt="Screenshot 2026-09-07 000204" src="https://github.com/user-attachments/assets/5d3617c3-983a-4ec3-8a6d-c5d8a7beb505" />
 
 
