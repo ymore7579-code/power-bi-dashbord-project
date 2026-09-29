@@ -10,7 +10,7 @@ The project demonstrates practical skills in **Data Analysis, Data Visualization
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Analyze overall sales performance
 - Track important business KPIs
@@ -178,7 +178,7 @@ These insights can support better **business decision-making and sales planning*
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Yogesh Ganpat More**
 
